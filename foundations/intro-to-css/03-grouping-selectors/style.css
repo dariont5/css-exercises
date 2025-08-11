@@ -1,0 +1,14 @@
+.inverted,
+.hazard {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.inverted {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.hazard {
+    background-color: #ffff00;
+}
